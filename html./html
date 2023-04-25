@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <meta charset="utf-8">
+  <meta content="width=device-width" name="viewport">
+  <meta content="UNDERTALE! The RPG game where you don't have to destroy anyone." name="description">
+  <meta content="Toby Fox" name="author">
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="https://undertale.com/assets/images/social-logo.png" name="og:image">
+  <link rel="icon" href="/assets/images/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+  <link rel="icon" href="/assets/images/favicon-32x32.png" sizes="32x32" type="image/png">
+  <link rel="icon" href="/assets/images/favicon-16x16.png" sizes="16x16" type="image/png">
+  <link href="/manifest.json" rel="manifest">
+  <meta content="#000000" name="theme-color">
+  <title>UNDERTALE</title>
+  <link href="/assets/css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="/assets/css/css.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+  <nav class="navbar">
+    <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#top_nav" data-toggle="collapse"
+      type="button"><span class="menu-text">MENU</span><span class="icon-bar"></span><span class="icon-bar"></span><span
+        class="icon-bar"></span></button>
+    <div class="container">
+      <div class="collapse navbar-collapse" id="top_nav">
+        <ul class="nav nav-justified" c>
+          <li><a href="https://undertale.com/about/">ABOUT</a></li>
+          <li><a href="https://undertale.com/demo/">DEMO</a></li>
+          <li><a href="https://www.fangamer.com/collections/undertale">MERCH</a></li>
+          <li><a href="https://undertale.com/help/">FAQ / CONTACT</a></li>
+        </ul>
+      </div>
+    </div>
+    <ul class="flags">
+      <li><a href="https://undertale.com"><img alt="US English Version" src="/assets/images/flag-us.png"></a></li>
+      <li><a href="http://undertale.jp"><img alt="JP 日本語 Version" src="/assets/images/flag-jp.png"></a></li>
+    </ul>
+  </nav>
+  <main class="wrapper" id="content">
+    <div class="main container">
+      <div class="row">
+        <div class="col-md-offset-2 col-md-8" id="logo">
+          <h1><a aria-label="UNDERTALE" href="/"><img alt="UNDERTALE" class="img-responsive"
+                src="/assets/images/logo.png"><span class="sr-only">UNDERTALE</span></a></h1>
+        </div>
+      </div>
+    </div>
+    <div class="main container big-margins" id="announcements">
+      <div class="row">
+        <div class="announcement col-md-offset-4 col-md-4 mb"><a aria-label="UNDERTALE / DELTARUNE Mailing List"
+            href="https://undertale.com/newsletter">
+            <h2><small class="red">NEW!</small><br>UNDERTALE /<br>DELTARUNE<br><span class="yellow">MAILING LIST</span>
+            </h2>
+          </a></div>
+      </div>
+    </div>
+
+
+    <div class="main container">
+      <div class="row">
+        <div>
+          <h2 style="margin-top: 15px">GAME<br>AVAILABLE ON</h2>
+          <ul class="nav nav-tabs nav-justified" id="platforms" role="tablist">
+            <li class="active" role="presentation"><a aria-controls="switch" aria-selected="true"
+                data-toggle="tab" href="#switch" role="tab" aria-expanded="true"><img alt="Nintendo Switch"
+                  class="button-icon" src="/assets/images/platform-switch.png"></a></li>
+            <li id="pc-btn" role="presentation"><a aria-controls="pc" aria-selected="false" data-toggle="tab" href="#pc"
+                role="tab"><img alt="PC" class="button-icon" src="/assets/images/platform-pc.png"></a></li>
+            <li role="presentation"><a aria-controls="ps4" aria-selected="false" data-toggle="tab" href="#ps4"
+                role="tab"><img alt="PlayStation 4" class="button-icon" src="/assets/images/platform-ps4.png"></a></li>
+            <li role="presentation"><a aria-controls="psvita" aria-selected="false" data-toggle="tab" href="#psvita"
+                role="tab"><img alt="PlayStation Vita" class="button-icon" src="/assets/images/platform-psvita.png"></a>
+            </li>
+            <li role="presentation"><a aria-controls="xbox" aria-selected="false" data-toggle="tab" href="#xbox"
+                role="tab"><img alt="Xbox One" class="button-icon" src="/assets/images/platform-xbox.png"></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="main container" id="buy_now" style="margin-bottom: 50px">
+      <div class="tab-fond" id="switch" role="tabpanel">
+        <div class="row" style="margin: 0">
+          <div class="col-sm-3"><img alt="UNDERTALE on Nintendo Switch" src="/assets/images/game-switch-se.png"></div>
+          <div class="col-sm-3">
+            <h5>Digital edition<br>available on</h5><a class="buy-button"
+              href="https://www.nintendo.com/games/detail/undertale-switch"><img alt="Nintendo eShop"
+                src="/assets/images/store-nintendo.png"></a>
+          </div>
+          <div class="buy-zone">
+            <h5>Physical edition<br>available at</h5><a class="buy-button but-inline"
+              href="https://www.fangamer.com/products/undertale-game-switch-ps4-vita"><img alt="Fangamer"
+                src="/assets/images/store-fangamer.png"></a><a class="buy-button but-inline"
+              href="https://www.bestbuy.com/site/undertale-nintendo-switch/6288633.p?skuId=6288633"><img alt="Best Buy"
+                src="/assets/images/store-bestbuy.png"></a>
+          </div>
+        </div>
+        <div class="divider">
+          <hr class="right"><span>COLLECTOR'S EDITION</span>
+        </div><a class="ce-button" href="https://www.fangamer.com/products/undertale-game-switch-ps4-vita"><img
+            alt="Collector's Edition for Nintendo Switch" src="/assets/images/game-switch-ce.png"></a><a
+          class="buy-button" href="https://www.fangamer.com/products/undertale-game-switch-ps4-vita"><small>Only
+            on</small><img alt="Fangamer" src="/assets/images/store-fangamer.png"></a>
+      </div>
+
+    </div>
+    <div class="main container big-margins" id="news">
+      <h2>News and Updates</h2>
+      <div class="row">
+        <div class="announcement col-md-4"><a aria-label="UNDERTALE LINE Stickers Volume 3"
+            href="https://line.me/S/sticker/16707223"><img alt="Sans with basketballs" loading="lazy"
+              src="/assets/images/stickers3.png" style="max-height: 150px; max-width: 150px">
+            <h2><span class="yellow">UNDERTALE</span><br>LINE Stickers:<br>Volume 3 is here!</h2>
+          </a><a aria-label="UNDERTALE iMessage Stickers Volume 3"
+            href="https://apps.apple.com/us/app/undertale-stickers-vol-3/id1584887715?app=messages">
+            <h3 style="margin-top: 15px">(Available on iMessage too!)</h3>
+          </a></div>
+
+        <div class="announcement col-md-4"><a href="https://undertale.com/deltarune-update-092020">
+            <h2><span class="yellow">DELTARUNE</span><br>Status Update<br><small>Sept 2020</small></h2>
+          </a></div>
+
+        <div class="announcement col-md-4"><a aria-label="UNDERTALE 5th Anniversary Alarm Clock Winter Dialogue"
+            href="alarmclock">
+            <h2><span class="yellow">UNDERTALE</span><br>5th Anniversary<br>Alarm Clock Winter Dialogue</h2>
+          </a></div>
+
+        <div class="announcement col-md-4"><a aria-label="UNDERTALE LINE Stickers Volume 2"
+            href="https://line.me/S/sticker/12885547"><img alt="Papyrus laughing" loading="lazy"
+              src="/assets/images/line.gif" style="max-height: 150px; max-width: 150px">
+            <h2><span class="yellow">UNDERTALE</span><br>LINE Stickers:<br>Volume 2 is here!</h2>
+          </a><a aria-label="UNDERTALE iMessage Stickers Volume 2"
+            href="https://apps.apple.com/us/app/undertale-stickers-vol-2/id1536815304">
+            <h3 style="margin-top: 15px">(Available on iMessage too!)</h3>
+          </a></div>
+
+        <div class="announcement col-md-4"><a aria-label="DELTARUNE LINE Stickers Volume 1"
+            href="https://line.me/S/sticker/13505512"><img alt="Ralsei with birthday cake" loading="lazy"
+              src="/assets/images/dr-stickers.png"
+              style="max-height: 150px; max-width: 150px; image-rendering: crisp-edges">
+            <h2><span class="yellow">DELTARUNE</span><br>LINE Stickers:<br>Volume 1 is here!</h2>
+          </a><a aria-label="DELTARUNE iMessage Stickers Volume 1"
+            href="https://apps.apple.com/us/app/deltarune-stickers-vol-1/id1537859603">
+            <h3 style="margin-top: 15px">(Available on iMessage too!)</h3>
+          </a></div>
+      </div>
+    </div>
+    <div id="announcement_container">
+      <div class="main container" id="announcement"><a
+          aria-label="If you completed UNDERTALE, you may be interested in DELTARUNE" href="https://www.deltarune.com">
+          <div class="row" style=>
+            <h2>If you completed UNDERTALE,<br>you may be interested in<br></h2>
+          </div>
+          <div class="announcement col-lg-offset-1 col-lg-10 col-sm-12">
+            <div> CHAPTER 2<br><span class="yellow">AVAILABLE NOW &gt;</span></div>
+          </div>
+      </div>
+      </a>
+    </div>
+    </div>
+  </main>
+
+  <script>
+    const bouton = document.getElementById('pc-btn')
+    bouton.addEventListener('click', nimporte())
+
+    function nimporte() {
+      document.getElementById("switch").style.display = 
+    }
+  </script>
+</body>
